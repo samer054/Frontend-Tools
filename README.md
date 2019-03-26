@@ -189,6 +189,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [Browserling](https://www.browserling.com/)
 - [Gremlins](https://github.com/marmelab/gremlins.js)
 - [Night Watch](http://nightwatchjs.org/)
+- [Selenium](https://www.seleniumhq.org/)
 
 ## Developments Communities
 
